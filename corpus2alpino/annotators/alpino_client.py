@@ -88,6 +88,8 @@ class AlpinoServerClient:
             lambda m: m.group(1) + ' ' + m.group(2), line)
 
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        # it can take a while
+        s.settimeout(300)
         s.connect((self.host, self.port))
         if self.prefix_id:
             line = "{0}|{1}".format(sentence_id, line)
