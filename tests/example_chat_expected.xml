@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank><alpino_ds version="1.6" id="">
+<sentence sentid="1">dus pakte zij gereedschap .</sentence>
+<metadata>
+<meta type="text" name="charencoding" value="UTF8" />
+<meta type="text" name="childage" value="11;00." />
+<meta type="int" name="childmonths" value="132" />
+<meta type="text" name="media" value="example, audio" />
+<meta type="text" name="session" value="example_chat" />
+<meta type="text" name="origutt" value="dus pakte zij gereedschap ." />
+<meta type="text" name="parsefile" value="PRELAN_example_chat_u00000000001.xml" />
+<meta type="text" name="speaker" value="CHI" />
+<meta type="int" name="uttendlineno" value="8" />
+<meta type="int" name="uttid" value="1" />
+<meta type="int" name="uttstartlineno" value="8" />
+<meta type="text" name="SES" value="" />
+<meta type="text" name="age" value="11;00." />
+<meta type="text" name="corpus" value="PRELAN" />
+<meta type="text" name="custom" value="" />
+<meta type="text" name="education" value="" />
+<meta type="text" name="group" value="premature" />
+<meta type="text" name="language" value="nld" />
+<meta type="int" name="months" value="132" />
+<meta type="text" name="role" value="Target_Child" />
+<meta type="text" name="sex" value="male" />
+<meta type="int" name="uttno" value="1" />
+</metadata>
+</alpino_ds><alpino_ds version="1.6" id="">
+<sentence sentid="42">toen wou zij de auto maken .</sentence>
+<metadata>
+<meta type="text" name="charencoding" value="UTF8" />
+<meta type="text" name="childage" value="11;00." />
+<meta type="int" name="childmonths" value="132" />
+<meta type="text" name="media" value="example, audio" />
+<meta type="text" name="session" value="example_chat" />
+<meta type="text" name="origutt" value="toen &lt;ging zij &amp;-eh haar &amp;+ma ging zij&gt; [//] wou zij de auto maken . &#183;21792_23475&#183;" />
+<meta type="text" name="parsefile" value="PRELAN_example_chat_u00000000002.xml" />
+<meta type="text" name="speaker" value="CHI" />
+<meta type="int" name="uttendlineno" value="10" />
+<meta type="int" name="uttid" value="42" />
+<meta type="int" name="uttstartlineno" value="9" />
+<meta type="text" name="SES" value="" />
+<meta type="text" name="age" value="11;00." />
+<meta type="text" name="corpus" value="PRELAN" />
+<meta type="text" name="custom" value="" />
+<meta type="text" name="education" value="" />
+<meta type="text" name="group" value="premature" />
+<meta type="text" name="language" value="nld" />
+<meta type="int" name="months" value="132" />
+<meta type="text" name="role" value="Target_Child" />
+<meta type="text" name="sex" value="male" />
+<meta type="text" name="xsid" value="42" />
+<meta type="int" name="uttno" value="2" />
+</metadata>
+</alpino_ds><alpino_ds version="1.6" id="">
+<sentence sentid="3">maar toen reed de auto er vandoor .</sentence>
+<metadata>
+<meta type="text" name="charencoding" value="UTF8" />
+<meta type="text" name="childage" value="11;00." />
+<meta type="int" name="childmonths" value="132" />
+<meta type="text" name="media" value="example, audio" />
+<meta type="text" name="session" value="example_chat" />
+<meta type="text" name="origutt" value="maar toen reed de auto er vandoor ." />
+<meta type="text" name="parsefile" value="PRELAN_example_chat_u00000000003.xml" />
+<meta type="text" name="speaker" value="CHI" />
+<meta type="int" name="uttendlineno" value="12" />
+<meta type="int" name="uttid" value="3" />
+<meta type="int" name="uttstartlineno" value="12" />
+<meta type="text" name="SES" value="" />
+<meta type="text" name="age" value="11;00." />
+<meta type="text" name="corpus" value="PRELAN" />
+<meta type="text" name="custom" value="" />
+<meta type="text" name="education" value="" />
+<meta type="text" name="group" value="premature" />
+<meta type="text" name="language" value="nld" />
+<meta type="int" name="months" value="132" />
+<meta type="text" name="role" value="Target_Child" />
+<meta type="text" name="sex" value="male" />
+<meta type="int" name="uttno" value="3" />
+</metadata>
+</alpino_ds><alpino_ds version="1.6" id="">
+<sentence sentid="4">toen deden ze een wedstrijdje met een andere bus .</sentence>
+<metadata>
+<meta type="text" name="charencoding" value="UTF8" />
+<meta type="text" name="childage" value="11;00." />
+<meta type="int" name="childmonths" value="132" />
+<meta type="text" name="media" value="example, audio" />
+<meta type="text" name="session" value="example_chat" />
+<meta type="text" name="origutt" value="toen &lt;kwam de&gt; [//] deden ze een wedstrijdje met een andere bus ." />
+<meta type="text" name="parsefile" value="PRELAN_example_chat_u00000000004.xml" />
+<meta type="text" name="speaker" value="CHI" />
+<meta type="int" name="uttendlineno" value="13" />
+<meta type="int" name="uttid" value="4" />
+<meta type="int" name="uttstartlineno" value="13" />
+<meta type="text" name="SES" value="" />
+<meta type="text" name="age" value="11;00." />
+<meta type="text" name="corpus" value="PRELAN" />
+<meta type="text" name="custom" value="" />
+<meta type="text" name="education" value="" />
+<meta type="text" name="group" value="premature" />
+<meta type="text" name="language" value="nld" />
+<meta type="int" name="months" value="132" />
+<meta type="text" name="role" value="Target_Child" />
+<meta type="text" name="sex" value="male" />
+<meta type="int" name="uttno" value="4" />
+</metadata>
+</alpino_ds></treebank>

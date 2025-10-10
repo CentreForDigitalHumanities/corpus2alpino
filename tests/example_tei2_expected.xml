@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank><alpino_ds version="1.6" id="">
+<sentence sentid="foo">Hier [ @folia staan WW(pv,tgw,met-t) staat ] wat scheiße tekst om het importeren van TEI-geformatteerde tekst te evalueren .</sentence>
+<metadata>
+<meta type="text" name="fileDesc::titleStmt::title" value="Quotes en andere talen" />
+<meta type="text" name="fileDesc::titleStmt::author" value="Sheean Spoel" />
+<meta type="text" name="fileDesc::editionStmt::edition" value="2018-03-05T13:38:37.229008088" />
+<meta type="text" name="tei-tag" value="p" />
+<meta type="text" name="note" value="Misschien question gebruiken ? " />
+<meta type="text" name="id" value="foo" />
+<meta type="text" name="rend" value="italic" />
+<meta type="text" name="xml:lang" value="de" />
+</metadata>
+</alpino_ds><alpino_ds version="1.6" id="">
+<sentence sentid="example_tei2.xml">Zij zei hierover tegen hem " wat is de raison d ’ être van deze tekst ? " ,</sentence>
+<metadata>
+<meta type="text" name="fileDesc::titleStmt::title" value="Quotes en andere talen" />
+<meta type="text" name="fileDesc::titleStmt::author" value="Sheean Spoel" />
+<meta type="text" name="fileDesc::editionStmt::edition" value="2018-03-05T13:38:37.229008088" />
+<meta type="text" name="tei-tag" value="p" />
+<meta type="text" name="note" value="Misschien question gebruiken ? " />
+<meta type="text" name="rend" value="italic" />
+<meta type="text" name="xml:lang" value="fr" />
+</metadata>
+</alpino_ds><alpino_ds version="1.6" id="">
+<sentence sentid="example_tei2.xml_1">niets dan ontzag volgde op deze vraag .</sentence>
+<metadata>
+<meta type="text" name="fileDesc::titleStmt::title" value="Quotes en andere talen" />
+<meta type="text" name="fileDesc::titleStmt::author" value="Sheean Spoel" />
+<meta type="text" name="fileDesc::editionStmt::edition" value="2018-03-05T13:38:37.229008088" />
+<meta type="text" name="tei-tag" value="p" />
+<meta type="text" name="note" value="Misschien question gebruiken ? " />
+</metadata>
+</alpino_ds></treebank>

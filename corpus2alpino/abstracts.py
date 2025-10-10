@@ -49,15 +49,14 @@ class Annotator(ABC):
 
 class Target(ABC):
     """
-    Wraps a file target, this can be a file system, a zip-file, 
+    Wraps a file target, this can be a file system, a zip-file,
     a database, etc, any place where files could be written to.
     """
 
-    def target_path(self, document: Document,
-                    filename: str,
-                    suffix: str) -> str:
-        output_path = path.join(document.collected_file.relpath,
-                                document.collected_file.filename)
+    def target_path(self, document: Document, filename: str, suffix: str) -> str:
+        output_path = path.join(
+            document.collected_file.relpath, document.collected_file.filename
+        )
         if filename != None:
             output_path = path.join(output_path, filename)
         if suffix != None:
@@ -65,11 +64,22 @@ class Target(ABC):
         return output_path
 
     @abstractmethod
-    def write(self,
-              document: Document,
-              content: str,
-              filename: Union[str, None] = None,
-              suffix: Union[str, None] = None) -> None:
+    def write(
+        self,
+        document: Document,
+        content: str,
+        filename: Union[str, None] = None,
+        suffix: Union[str, None] = None,
+    ) -> None:
+        pass
+
+    @abstractmethod
+    def write_merged(self, content: str) -> None:
+        """Writes to the merged output file (if any)
+
+        Args:
+            content (str): content to write
+        """
         pass
 
     @abstractmethod
@@ -89,6 +99,24 @@ class Writer(ABC):
     """
     Writes documents as files in a desired format to a target.
     """
+
+    @abstractmethod
+    def start_merged(self, target: Target) -> None:
+        """Starts the merged output
+
+        Args:
+            target (Target): target to write the start of the output
+        """
+        pass
+
+    @abstractmethod
+    def end_merged(self, target: Target) -> None:
+        """Ends the merged output
+
+        Args:
+            target (Target): target to write the end of the output
+        """
+        pass
 
     @abstractmethod
     def write(self, document: Document, target: Target) -> None:

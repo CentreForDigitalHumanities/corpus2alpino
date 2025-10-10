@@ -21,6 +21,14 @@ class ConsoleTarget(Target):
         """
         print(content, end="")
 
+    def write_merged(self, content: str) -> None:
+        """Writes to stdout.
+
+        Args:
+            content (str): content to write
+        """
+        print(content, end="")
+
     def flush(self):
         return
 

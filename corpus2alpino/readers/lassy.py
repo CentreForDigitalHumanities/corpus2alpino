@@ -7,7 +7,6 @@ from typing import Iterable
 from lxml import etree
 import re
 
-from .alpino_brackets import escape_id, escape_word, format_add_lex, format_folia
 from corpus2alpino.abstracts import Reader
 from corpus2alpino.annotators.alpino import ANNOTATION_KEY
 from corpus2alpino.models import CollectedFile, Document, MetadataValue, Utterance

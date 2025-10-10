@@ -14,7 +14,12 @@ class FilesystemTarget(Target):
 
     __current_output_path = None
 
-    def __open_file(self, document: Document, filename: Optional[str] = None, suffix: Optional[str] = None):
+    def __open_file(
+        self,
+        document: Document,
+        filename: Optional[str] = None,
+        suffix: Optional[str] = None,
+    ):
         if self.merge_files:
             # when merge_files = True, a file is already open
             return
@@ -66,7 +71,7 @@ class FilesystemTarget(Target):
             output_dir = path.dirname(output_path)
             if output_dir != "":
                 makedirs(output_dir, exist_ok=True)
-            self.file = open(output_path, 'w', encoding='utf-8')
+            self.file = open(output_path, "w", encoding="utf-8")
         else:
             self.file = None  # type: ignore
 
@@ -79,6 +84,15 @@ class FilesystemTarget(Target):
     ):
         self.__open_file(document, filename, suffix)
         if self.file:
+            self.file.write(content)
+
+    def write_merged(self, content: str) -> None:
+        """Writes to the merged output file (if any)
+
+        Args:
+            content (str): content to write
+        """
+        if self.merge_files and self.file:
             self.file.write(content)
 
     def flush(self):

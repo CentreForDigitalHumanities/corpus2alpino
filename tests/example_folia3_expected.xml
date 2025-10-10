@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank><alpino_ds version="1.6" id="">
+<sentence sentid="TEI.1.text.1.body.1.div1.1.p.1.s.1">Weledele Ghestrenghe Heer , Mijn Heer , Het gepasseerde aan den griffier Fagel geschreven luydt als volgt .</sentence>
+<metadata>
+<meta type="text" name="language" value="nld" />
+<meta type="text" name="publisher" value="Instituut voor Nederlandse Geschiedenis" />
+<meta type="text" name="authorLevel1" value="De Veth" />
+<meta type="text" name="biblScope_page" value="345-" />
+<meta type="text" name="biblScope_volume" value="17" />
+<meta type="text" name="category" value="uitgave" />
+<meta type="text" name="copyrightHolder" value="Huygens ING" />
+<meta type="text" name="copyrightOwner" value="Huygens ING" />
+<meta type="text" name="corpusProvenance" value="HuygensING-heinsius" />
+<meta type="text" name="edition" value="1" />
+<meta type="text" name="editorLevel1" value="Dr. A.J. Veenendaal jr., Mw. M.T.A. Schouten" />
+<meta type="text" name="editorLevel2" value="Dr. A.J. Veenendaal jr., Mw. M.T.A. Schouten" />
+<meta type="text" name="factuality" value="non-fictie" />
+<meta type="text" name="genre" value="egodocumenten" />
+<meta type="text" name="ingestTime" value="2017-06-24T08:09" />
+<meta type="text" name="ipr" value="extern" />
+<meta type="text" name="isbn" value="90-5216-104-6" />
+<meta type="text" name="medium" value="boek" />
+<meta type="text" name="pid" value="INT_ffea60c0-bf90-4161-95a1-aacb0738710a" />
+<meta type="text" name="placePublication" value="'s Gravenhage" />
+<meta type="text" name="primaryLanguage" value="nl" />
+<meta type="text" name="processingMethod" value="ongecorrigeerde OCR" />
+<meta type="text" name="pubYear_from" value="1998" />
+<meta type="text" name="pubYear_to" value="1998" />
+<meta type="text" name="resourceURI" value="http://resources.huygens.knaw.nl/retroboeken/heinsius/" />
+<meta type="text" name="sourceID" value="heinsius:vol17:454" />
+<meta type="text" name="statusText" value="geen vertaling" />
+<meta type="text" name="subgenre" value="brieven" />
+<meta type="text" name="subtitleLevel2" value="Deel 17, 1 mei 1715 — 31 juli 1716" />
+<meta type="text" name="subtitleLevel3" value="Grote Serie 243" />
+<meta type="text" name="textDay_from" value="24" />
+<meta type="text" name="textDay_to" value="24" />
+<meta type="text" name="textMonth_from" value="9" />
+<meta type="text" name="textMonth_to" value="9" />
+<meta type="text" name="textYear_from" value="1715" />
+<meta type="text" name="textYear_to" value="1715" />
+<meta type="text" name="titleLevel1" value="454. van De Veth, 24-9-1715" />
+<meta type="text" name="titleLevel2" value="De briefwisseling van Anthonie Heinsius 1702-1720" />
+<meta type="text" name="titleLevel3" value="Rijks Geschiedkundige Publicatiën uitgegeven in opdracht van de minister van Onderwijs en Wetenschappen onder toezicht van de Rijkscommissie voor Vaderlandse Geschiedenis" />
+<meta type="text" name="witnessDay_from" value="24" />
+<meta type="text" name="witnessDay_to" value="24" />
+<meta type="text" name="witnessMonth_from" value="9" />
+<meta type="text" name="witnessMonth_to" value="9" />
+<meta type="text" name="witnessYear_from" value="1715" />
+<meta type="text" name="witnessYear_to" value="1715" />
+</metadata>
+</alpino_ds><alpino_ds version="1.6" id="">
+<sentence sentid="TEI.1.text.1.body.1.div1.1.p.2.s.1">Naardat een dagh of drie hier ter reede hadde gelegen , is iemant wegens den admiraeliteyt van Coppenhagen bij mij gekomen om te versoeken dat eenige masten en hennip uyt de vloot wilde overgeven ten behoeve van coninghs vloot , waerop in antwoort gaf ’ tselve strijdigh te sijn tegens ’t tractaet van commersie met de coningh van Sweden gesloten , behalve ook dat het aan mij niet stont over koopluyden goederen te disponeren , terwijl het alle bevragte schepen waeren ; dat derhalve versoght mij sulx niet mogt werden gevergt , schoon in alle deelen kon versekeren de goede intelligentie van mijn heeren en meesters tusschen den coningh van Denemarken , en is naderhant daer ook over geschreven aan den Engelsen admirael , die een reschriptie van deselve natuer daerop deet .</sentence>
+<metadata>
+<meta type="text" name="language" value="nld" />
+<meta type="text" name="publisher" value="Instituut voor Nederlandse Geschiedenis" />
+<meta type="text" name="authorLevel1" value="De Veth" />
+<meta type="text" name="biblScope_page" value="345-" />
+<meta type="text" name="biblScope_volume" value="17" />
+<meta type="text" name="category" value="uitgave" />
+<meta type="text" name="copyrightHolder" value="Huygens ING" />
+<meta type="text" name="copyrightOwner" value="Huygens ING" />
+<meta type="text" name="corpusProvenance" value="HuygensING-heinsius" />
+<meta type="text" name="edition" value="1" />
+<meta type="text" name="editorLevel1" value="Dr. A.J. Veenendaal jr., Mw. M.T.A. Schouten" />
+<meta type="text" name="editorLevel2" value="Dr. A.J. Veenendaal jr., Mw. M.T.A. Schouten" />
+<meta type="text" name="factuality" value="non-fictie" />
+<meta type="text" name="genre" value="egodocumenten" />
+<meta type="text" name="ingestTime" value="2017-06-24T08:09" />
+<meta type="text" name="ipr" value="extern" />
+<meta type="text" name="isbn" value="90-5216-104-6" />
+<meta type="text" name="medium" value="boek" />
+<meta type="text" name="pid" value="INT_ffea60c0-bf90-4161-95a1-aacb0738710a" />
+<meta type="text" name="placePublication" value="'s Gravenhage" />
+<meta type="text" name="primaryLanguage" value="nl" />
+<meta type="text" name="processingMethod" value="ongecorrigeerde OCR" />
+<meta type="text" name="pubYear_from" value="1998" />
+<meta type="text" name="pubYear_to" value="1998" />
+<meta type="text" name="resourceURI" value="http://resources.huygens.knaw.nl/retroboeken/heinsius/" />
+<meta type="text" name="sourceID" value="heinsius:vol17:454" />
+<meta type="text" name="statusText" value="geen vertaling" />
+<meta type="text" name="subgenre" value="brieven" />
+<meta type="text" name="subtitleLevel2" value="Deel 17, 1 mei 1715 — 31 juli 1716" />
+<meta type="text" name="subtitleLevel3" value="Grote Serie 243" />
+<meta type="text" name="textDay_from" value="24" />
+<meta type="text" name="textDay_to" value="24" />
+<meta type="text" name="textMonth_from" value="9" />
+<meta type="text" name="textMonth_to" value="9" />
+<meta type="text" name="textYear_from" value="1715" />
+<meta type="text" name="textYear_to" value="1715" />
+<meta type="text" name="titleLevel1" value="454. van De Veth, 24-9-1715" />
+<meta type="text" name="titleLevel2" value="De briefwisseling van Anthonie Heinsius 1702-1720" />
+<meta type="text" name="titleLevel3" value="Rijks Geschiedkundige Publicatiën uitgegeven in opdracht van de minister van Onderwijs en Wetenschappen onder toezicht van de Rijkscommissie voor Vaderlandse Geschiedenis" />
+<meta type="text" name="witnessDay_from" value="24" />
+<meta type="text" name="witnessDay_to" value="24" />
+<meta type="text" name="witnessMonth_from" value="9" />
+<meta type="text" name="witnessMonth_to" value="9" />
+<meta type="text" name="witnessYear_from" value="1715" />
+<meta type="text" name="witnessYear_to" value="1715" />
+</metadata>
+</alpino_ds><alpino_ds version="1.6" id="">
+<sentence sentid="TEI.1.text.1.body.1.div1.1.p.2.s.2">Soo is ’t dat drie dagen daernaer twee schippers bij mijn sijn gekomen van Coppenhagen , bekent maekende hoe dat in de naght van de Deene waeren overrompelt en in den donker , sonder het iemant gewaer wiert , uyt de vloot sijn gevoert en met haar schepen voor de boom van Coppenhagen gebragt , daer men aenstonts aan ’t lossen van deselve soude gaen om sigh van de masten te bedienen , dogh betaelende - soo sij seggen - nae de prijs soo die in Hollant komen te gelden .</sentence>
+<metadata>
+<meta type="text" name="language" value="nld" />
+<meta type="text" name="publisher" value="Instituut voor Nederlandse Geschiedenis" />
+<meta type="text" name="authorLevel1" value="De Veth" />
+<meta type="text" name="biblScope_page" value="345-" />
+<meta type="text" name="biblScope_volume" value="17" />
+<meta type="text" name="category" value="uitgave" />
+<meta type="text" name="copyrightHolder" value="Huygens ING" />
+<meta type="text" name="copyrightOwner" value="Huygens ING" />
+<meta type="text" name="corpusProvenance" value="HuygensING-heinsius" />
+<meta type="text" name="edition" value="1" />
+<meta type="text" name="editorLevel1" value="Dr. A.J. Veenendaal jr., Mw. M.T.A. Schouten" />
+<meta type="text" name="editorLevel2" value="Dr. A.J. Veenendaal jr., Mw. M.T.A. Schouten" />
+<meta type="text" name="factuality" value="non-fictie" />
+<meta type="text" name="genre" value="egodocumenten" />
+<meta type="text" name="ingestTime" value="2017-06-24T08:09" />
+<meta type="text" name="ipr" value="extern" />
+<meta type="text" name="isbn" value="90-5216-104-6" />
+<meta type="text" name="medium" value="boek" />
+<meta type="text" name="pid" value="INT_ffea60c0-bf90-4161-95a1-aacb0738710a" />
+<meta type="text" name="placePublication" value="'s Gravenhage" />
+<meta type="text" name="primaryLanguage" value="nl" />
+<meta type="text" name="processingMethod" value="ongecorrigeerde OCR" />
+<meta type="text" name="pubYear_from" value="1998" />
+<meta type="text" name="pubYear_to" value="1998" />
+<meta type="text" name="resourceURI" value="http://resources.huygens.knaw.nl/retroboeken/heinsius/" />
+<meta type="text" name="sourceID" value="heinsius:vol17:454" />
+<meta type="text" name="statusText" value="geen vertaling" />
+<meta type="text" name="subgenre" value="brieven" />
+<meta type="text" name="subtitleLevel2" value="Deel 17, 1 mei 1715 — 31 juli 1716" />
+<meta type="text" name="subtitleLevel3" value="Grote Serie 243" />
+<meta type="text" name="textDay_from" value="24" />
+<meta type="text" name="textDay_to" value="24" />
+<meta type="text" name="textMonth_from" value="9" />
+<meta type="text" name="textMonth_to" value="9" />
+<meta type="text" name="textYear_from" value="1715" />
+<meta type="text" name="textYear_to" value="1715" />
+<meta type="text" name="titleLevel1" value="454. van De Veth, 24-9-1715" />
+<meta type="text" name="titleLevel2" value="De briefwisseling van Anthonie Heinsius 1702-1720" />
+<meta type="text" name="titleLevel3" value="Rijks Geschiedkundige Publicatiën uitgegeven in opdracht van de minister van Onderwijs en Wetenschappen onder toezicht van de Rijkscommissie voor Vaderlandse Geschiedenis" />
+<meta type="text" name="witnessDay_from" value="24" />
+<meta type="text" name="witnessDay_to" value="24" />
+<meta type="text" name="witnessMonth_from" value="9" />
+<meta type="text" name="witnessMonth_to" value="9" />
+<meta type="text" name="witnessYear_from" value="1715" />
+<meta type="text" name="witnessYear_to" value="1715" />
+</metadata>
+</alpino_ds><alpino_ds version="1.6" id="">
+<sentence sentid="TEI.1.text.1.body.1.div1.1.p.2.s.3">Ik hebbe hierop een expresse gesonden naer den secretaris van den heer envojé Goes , omme daertegens te protesteren en ’t Geheym Conseyl te vragen met wat meninghe dit was geschiet .</sentence>
+<metadata>
+<meta type="text" name="language" value="nld" />
+<meta type="text" name="publisher" value="Instituut voor Nederlandse Geschiedenis" />
+<meta type="text" name="authorLevel1" value="De Veth" />
+<meta type="text" name="biblScope_page" value="345-" />
+<meta type="text" name="biblScope_volume" value="17" />
+<meta type="text" name="category" value="uitgave" />
+<meta type="text" name="copyrightHolder" value="Huygens ING" />
+<meta type="text" name="copyrightOwner" value="Huygens ING" />
+<meta type="text" name="corpusProvenance" value="HuygensING-heinsius" />
+<meta type="text" name="edition" value="1" />
+<meta type="text" name="editorLevel1" value="Dr. A.J. Veenendaal jr., Mw. M.T.A. Schouten" />
+<meta type="text" name="editorLevel2" value="Dr. A.J. Veenendaal jr., Mw. M.T.A. Schouten" />
+<meta type="text" name="factuality" value="non-fictie" />
+<meta type="text" name="genre" value="egodocumenten" />
+<meta type="text" name="ingestTime" value="2017-06-24T08:09" />
+<meta type="text" name="ipr" value="extern" />
+<meta type="text" name="isbn" value="90-5216-104-6" />
+<meta type="text" name="medium" value="boek" />
+<meta type="text" name="pid" value="INT_ffea60c0-bf90-4161-95a1-aacb0738710a" />
+<meta type="text" name="placePublication" value="'s Gravenhage" />
+<meta type="text" name="primaryLanguage" value="nl" />
+<meta type="text" name="processingMethod" value="ongecorrigeerde OCR" />
+<meta type="text" name="pubYear_from" value="1998" />
+<meta type="text" name="pubYear_to" value="1998" />
+<meta type="text" name="resourceURI" value="http://resources.huygens.knaw.nl/retroboeken/heinsius/" />
+<meta type="text" name="sourceID" value="heinsius:vol17:454" />
+<meta type="text" name="statusText" value="geen vertaling" />
+<meta type="text" name="subgenre" value="brieven" />
+<meta type="text" name="subtitleLevel2" value="Deel 17, 1 mei 1715 — 31 juli 1716" />
+<meta type="text" name="subtitleLevel3" value="Grote Serie 243" />
+<meta type="text" name="textDay_from" value="24" />
+<meta type="text" name="textDay_to" value="24" />
+<meta type="text" name="textMonth_from" value="9" />
+<meta type="text" name="textMonth_to" value="9" />
+<meta type="text" name="textYear_from" value="1715" />
+<meta type="text" name="textYear_to" value="1715" />
+<meta type="text" name="titleLevel1" value="454. van De Veth, 24-9-1715" />
+<meta type="text" name="titleLevel2" value="De briefwisseling van Anthonie Heinsius 1702-1720" />
+<meta type="text" name="titleLevel3" value="Rijks Geschiedkundige Publicatiën uitgegeven in opdracht van de minister van Onderwijs en Wetenschappen onder toezicht van de Rijkscommissie voor Vaderlandse Geschiedenis" />
+<meta type="text" name="witnessDay_from" value="24" />
+<meta type="text" name="witnessDay_to" value="24" />
+<meta type="text" name="witnessMonth_from" value="9" />
+<meta type="text" name="witnessMonth_to" value="9" />
+<meta type="text" name="witnessYear_from" value="1715" />
+<meta type="text" name="witnessYear_to" value="1715" />
+</metadata>
+</alpino_ds><alpino_ds version="1.6" id="">
+<sentence sentid="TEI.1.text.1.body.1.div1.1.p.2.s.4">Dogh alsoo deselve expresse nogh niet weder terugh is gekomen , soo kan U Ed. Ghestr .</sentence>
+<metadata>
+<meta type="text" name="language" value="nld" />
+<meta type="text" name="publisher" value="Instituut voor Nederlandse Geschiedenis" />
+<meta type="text" name="authorLevel1" value="De Veth" />
+<meta type="text" name="biblScope_page" value="345-" />
+<meta type="text" name="biblScope_volume" value="17" />
+<meta type="text" name="category" value="uitgave" />
+<meta type="text" name="copyrightHolder" value="Huygens ING" />
+<meta type="text" name="copyrightOwner" value="Huygens ING" />
+<meta type="text" name="corpusProvenance" value="HuygensING-heinsius" />
+<meta type="text" name="edition" value="1" />
+<meta type="text" name="editorLevel1" value="Dr. A.J. Veenendaal jr., Mw. M.T.A. Schouten" />
+<meta type="text" name="editorLevel2" value="Dr. A.J. Veenendaal jr., Mw. M.T.A. Schouten" />
+<meta type="text" name="factuality" value="non-fictie" />
+<meta type="text" name="genre" value="egodocumenten" />
+<meta type="text" name="ingestTime" value="2017-06-24T08:09" />
+<meta type="text" name="ipr" value="extern" />
+<meta type="text" name="isbn" value="90-5216-104-6" />
+<meta type="text" name="medium" value="boek" />
+<meta type="text" name="pid" value="INT_ffea60c0-bf90-4161-95a1-aacb0738710a" />
+<meta type="text" name="placePublication" value="'s Gravenhage" />
+<meta type="text" name="primaryLanguage" value="nl" />
+<meta type="text" name="processingMethod" value="ongecorrigeerde OCR" />
+<meta type="text" name="pubYear_from" value="1998" />
+<meta type="text" name="pubYear_to" value="1998" />
+<meta type="text" name="resourceURI" value="http://resources.huygens.knaw.nl/retroboeken/heinsius/" />
+<meta type="text" name="sourceID" value="heinsius:vol17:454" />
+<meta type="text" name="statusText" value="geen vertaling" />
+<meta type="text" name="subgenre" value="brieven" />
+<meta type="text" name="subtitleLevel2" value="Deel 17, 1 mei 1715 — 31 juli 1716" />
+<meta type="text" name="subtitleLevel3" value="Grote Serie 243" />
+<meta type="text" name="textDay_from" value="24" />
+<meta type="text" name="textDay_to" value="24" />
+<meta type="text" name="textMonth_from" value="9" />
+<meta type="text" name="textMonth_to" value="9" />
+<meta type="text" name="textYear_from" value="1715" />
+<meta type="text" name="textYear_to" value="1715" />
+<meta type="text" name="titleLevel1" value="454. van De Veth, 24-9-1715" />
+<meta type="text" name="titleLevel2" value="De briefwisseling van Anthonie Heinsius 1702-1720" />
+<meta type="text" name="titleLevel3" value="Rijks Geschiedkundige Publicatiën uitgegeven in opdracht van de minister van Onderwijs en Wetenschappen onder toezicht van de Rijkscommissie voor Vaderlandse Geschiedenis" />
+<meta type="text" name="witnessDay_from" value="24" />
+<meta type="text" name="witnessDay_to" value="24" />
+<meta type="text" name="witnessMonth_from" value="9" />
+<meta type="text" name="witnessMonth_to" value="9" />
+<meta type="text" name="witnessYear_from" value="1715" />
+<meta type="text" name="witnessYear_to" value="1715" />
+</metadata>
+</alpino_ds><alpino_ds version="1.6" id="">
+<sentence sentid="TEI.1.text.1.body.1.div1.1.p.2.s.5">daervan geen verdre onderregtingh geven , dogh twijfele niet of sulx sal door den voorn , secretaris geschieden ; hebbende van mijn plight geoordeelt van dit voorgevalle kennisse te geven , en blijven -</sentence>
+<metadata>
+<meta type="text" name="language" value="nld" />
+<meta type="text" name="publisher" value="Instituut voor Nederlandse Geschiedenis" />
+<meta type="text" name="authorLevel1" value="De Veth" />
+<meta type="text" name="biblScope_page" value="345-" />
+<meta type="text" name="biblScope_volume" value="17" />
+<meta type="text" name="category" value="uitgave" />
+<meta type="text" name="copyrightHolder" value="Huygens ING" />
+<meta type="text" name="copyrightOwner" value="Huygens ING" />
+<meta type="text" name="corpusProvenance" value="HuygensING-heinsius" />
+<meta type="text" name="edition" value="1" />
+<meta type="text" name="editorLevel1" value="Dr. A.J. Veenendaal jr., Mw. M.T.A. Schouten" />
+<meta type="text" name="editorLevel2" value="Dr. A.J. Veenendaal jr., Mw. M.T.A. Schouten" />
+<meta type="text" name="factuality" value="non-fictie" />
+<meta type="text" name="genre" value="egodocumenten" />
+<meta type="text" name="ingestTime" value="2017-06-24T08:09" />
+<meta type="text" name="ipr" value="extern" />
+<meta type="text" name="isbn" value="90-5216-104-6" />
+<meta type="text" name="medium" value="boek" />
+<meta type="text" name="pid" value="INT_ffea60c0-bf90-4161-95a1-aacb0738710a" />
+<meta type="text" name="placePublication" value="'s Gravenhage" />
+<meta type="text" name="primaryLanguage" value="nl" />
+<meta type="text" name="processingMethod" value="ongecorrigeerde OCR" />
+<meta type="text" name="pubYear_from" value="1998" />
+<meta type="text" name="pubYear_to" value="1998" />
+<meta type="text" name="resourceURI" value="http://resources.huygens.knaw.nl/retroboeken/heinsius/" />
+<meta type="text" name="sourceID" value="heinsius:vol17:454" />
+<meta type="text" name="statusText" value="geen vertaling" />
+<meta type="text" name="subgenre" value="brieven" />
+<meta type="text" name="subtitleLevel2" value="Deel 17, 1 mei 1715 — 31 juli 1716" />
+<meta type="text" name="subtitleLevel3" value="Grote Serie 243" />
+<meta type="text" name="textDay_from" value="24" />
+<meta type="text" name="textDay_to" value="24" />
+<meta type="text" name="textMonth_from" value="9" />
+<meta type="text" name="textMonth_to" value="9" />
+<meta type="text" name="textYear_from" value="1715" />
+<meta type="text" name="textYear_to" value="1715" />
+<meta type="text" name="titleLevel1" value="454. van De Veth, 24-9-1715" />
+<meta type="text" name="titleLevel2" value="De briefwisseling van Anthonie Heinsius 1702-1720" />
+<meta type="text" name="titleLevel3" value="Rijks Geschiedkundige Publicatiën uitgegeven in opdracht van de minister van Onderwijs en Wetenschappen onder toezicht van de Rijkscommissie voor Vaderlandse Geschiedenis" />
+<meta type="text" name="witnessDay_from" value="24" />
+<meta type="text" name="witnessDay_to" value="24" />
+<meta type="text" name="witnessMonth_from" value="9" />
+<meta type="text" name="witnessMonth_to" value="9" />
+<meta type="text" name="witnessYear_from" value="1715" />
+<meta type="text" name="witnessYear_to" value="1715" />
+</metadata>
+</alpino_ds><alpino_ds version="1.6" id="">
+<sentence sentid="TEI.1.text.1.body.1.div1.1.p.3.s.1">L. de Veth .</sentence>
+<metadata>
+<meta type="text" name="language" value="nld" />
+<meta type="text" name="publisher" value="Instituut voor Nederlandse Geschiedenis" />
+<meta type="text" name="authorLevel1" value="De Veth" />
+<meta type="text" name="biblScope_page" value="345-" />
+<meta type="text" name="biblScope_volume" value="17" />
+<meta type="text" name="category" value="uitgave" />
+<meta type="text" name="copyrightHolder" value="Huygens ING" />
+<meta type="text" name="copyrightOwner" value="Huygens ING" />
+<meta type="text" name="corpusProvenance" value="HuygensING-heinsius" />
+<meta type="text" name="edition" value="1" />
+<meta type="text" name="editorLevel1" value="Dr. A.J. Veenendaal jr., Mw. M.T.A. Schouten" />
+<meta type="text" name="editorLevel2" value="Dr. A.J. Veenendaal jr., Mw. M.T.A. Schouten" />
+<meta type="text" name="factuality" value="non-fictie" />
+<meta type="text" name="genre" value="egodocumenten" />
+<meta type="text" name="ingestTime" value="2017-06-24T08:09" />
+<meta type="text" name="ipr" value="extern" />
+<meta type="text" name="isbn" value="90-5216-104-6" />
+<meta type="text" name="medium" value="boek" />
+<meta type="text" name="pid" value="INT_ffea60c0-bf90-4161-95a1-aacb0738710a" />
+<meta type="text" name="placePublication" value="'s Gravenhage" />
+<meta type="text" name="primaryLanguage" value="nl" />
+<meta type="text" name="processingMethod" value="ongecorrigeerde OCR" />
+<meta type="text" name="pubYear_from" value="1998" />
+<meta type="text" name="pubYear_to" value="1998" />
+<meta type="text" name="resourceURI" value="http://resources.huygens.knaw.nl/retroboeken/heinsius/" />
+<meta type="text" name="sourceID" value="heinsius:vol17:454" />
+<meta type="text" name="statusText" value="geen vertaling" />
+<meta type="text" name="subgenre" value="brieven" />
+<meta type="text" name="subtitleLevel2" value="Deel 17, 1 mei 1715 — 31 juli 1716" />
+<meta type="text" name="subtitleLevel3" value="Grote Serie 243" />
+<meta type="text" name="textDay_from" value="24" />
+<meta type="text" name="textDay_to" value="24" />
+<meta type="text" name="textMonth_from" value="9" />
+<meta type="text" name="textMonth_to" value="9" />
+<meta type="text" name="textYear_from" value="1715" />
+<meta type="text" name="textYear_to" value="1715" />
+<meta type="text" name="titleLevel1" value="454. van De Veth, 24-9-1715" />
+<meta type="text" name="titleLevel2" value="De briefwisseling van Anthonie Heinsius 1702-1720" />
+<meta type="text" name="titleLevel3" value="Rijks Geschiedkundige Publicatiën uitgegeven in opdracht van de minister van Onderwijs en Wetenschappen onder toezicht van de Rijkscommissie voor Vaderlandse Geschiedenis" />
+<meta type="text" name="witnessDay_from" value="24" />
+<meta type="text" name="witnessDay_to" value="24" />
+<meta type="text" name="witnessMonth_from" value="9" />
+<meta type="text" name="witnessMonth_to" value="9" />
+<meta type="text" name="witnessYear_from" value="1715" />
+<meta type="text" name="witnessYear_to" value="1715" />
+</metadata>
+</alpino_ds><alpino_ds version="1.6" id="">
+<sentence sentid="TEI.1.text.1.body.1.div1.1.p.4.s.1">Actum in ’s Lants schip ’ Gelderlant ’ , ten anker in de Zont , den 24 septemb/ 1715 .</sentence>
+<metadata>
+<meta type="text" name="language" value="nld" />
+<meta type="text" name="publisher" value="Instituut voor Nederlandse Geschiedenis" />
+<meta type="text" name="authorLevel1" value="De Veth" />
+<meta type="text" name="biblScope_page" value="345-" />
+<meta type="text" name="biblScope_volume" value="17" />
+<meta type="text" name="category" value="uitgave" />
+<meta type="text" name="copyrightHolder" value="Huygens ING" />
+<meta type="text" name="copyrightOwner" value="Huygens ING" />
+<meta type="text" name="corpusProvenance" value="HuygensING-heinsius" />
+<meta type="text" name="edition" value="1" />
+<meta type="text" name="editorLevel1" value="Dr. A.J. Veenendaal jr., Mw. M.T.A. Schouten" />
+<meta type="text" name="editorLevel2" value="Dr. A.J. Veenendaal jr., Mw. M.T.A. Schouten" />
+<meta type="text" name="factuality" value="non-fictie" />
+<meta type="text" name="genre" value="egodocumenten" />
+<meta type="text" name="ingestTime" value="2017-06-24T08:09" />
+<meta type="text" name="ipr" value="extern" />
+<meta type="text" name="isbn" value="90-5216-104-6" />
+<meta type="text" name="medium" value="boek" />
+<meta type="text" name="pid" value="INT_ffea60c0-bf90-4161-95a1-aacb0738710a" />
+<meta type="text" name="placePublication" value="'s Gravenhage" />
+<meta type="text" name="primaryLanguage" value="nl" />
+<meta type="text" name="processingMethod" value="ongecorrigeerde OCR" />
+<meta type="text" name="pubYear_from" value="1998" />
+<meta type="text" name="pubYear_to" value="1998" />
+<meta type="text" name="resourceURI" value="http://resources.huygens.knaw.nl/retroboeken/heinsius/" />
+<meta type="text" name="sourceID" value="heinsius:vol17:454" />
+<meta type="text" name="statusText" value="geen vertaling" />
+<meta type="text" name="subgenre" value="brieven" />
+<meta type="text" name="subtitleLevel2" value="Deel 17, 1 mei 1715 — 31 juli 1716" />
+<meta type="text" name="subtitleLevel3" value="Grote Serie 243" />
+<meta type="text" name="textDay_from" value="24" />
+<meta type="text" name="textDay_to" value="24" />
+<meta type="text" name="textMonth_from" value="9" />
+<meta type="text" name="textMonth_to" value="9" />
+<meta type="text" name="textYear_from" value="1715" />
+<meta type="text" name="textYear_to" value="1715" />
+<meta type="text" name="titleLevel1" value="454. van De Veth, 24-9-1715" />
+<meta type="text" name="titleLevel2" value="De briefwisseling van Anthonie Heinsius 1702-1720" />
+<meta type="text" name="titleLevel3" value="Rijks Geschiedkundige Publicatiën uitgegeven in opdracht van de minister van Onderwijs en Wetenschappen onder toezicht van de Rijkscommissie voor Vaderlandse Geschiedenis" />
+<meta type="text" name="witnessDay_from" value="24" />
+<meta type="text" name="witnessDay_to" value="24" />
+<meta type="text" name="witnessMonth_from" value="9" />
+<meta type="text" name="witnessMonth_to" value="9" />
+<meta type="text" name="witnessYear_from" value="1715" />
+<meta type="text" name="witnessYear_to" value="1715" />
+</metadata>
+</alpino_ds></treebank>

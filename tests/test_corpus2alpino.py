@@ -17,6 +17,7 @@ class TestCorpus2Alpino(unittest.TestCase):
     """
     Unit test class.
     """
+
     def setUp(self):
         self.maxDiff = None
 
@@ -26,22 +27,25 @@ class TestCorpus2Alpino(unittest.TestCase):
         """
 
         paqu_writer = PaQuWriter()
-        test_files = self.get_files('example*.xml') + self.get_files('example*.cha')
+        test_files = [
+            f
+            for f in self.get_files("example*.xml") + self.get_files("example*.cha")
+            if "_expected" not in f
+        ]
         converter = Converter(
-            FilesystemCollector(test_files),
-            target=MemoryTarget(),
-            writer=paqu_writer)
+            FilesystemCollector(test_files), target=MemoryTarget(), writer=paqu_writer
+        )
 
         converted = list(converter.convert())
-        self.assertEqual(len(converted), len(test_files))
+        self.assertEqual(converter.written, len(test_files))
 
         for test_file, output in zip(test_files, converted):
             print(test_file)
-            expected_filename = test_file.replace('.xml', '_expected.txt').replace('.cha', '_expected.txt')
-            with open(expected_filename, encoding='utf-8') as expected_file:
-                self.assertEqual(
-                    output,
-                    expected_file.read())
+            expected_filename = test_file.replace(".xml", "_expected.txt").replace(
+                ".cha", "_expected.txt"
+            )
+            with open(expected_filename, encoding="utf-8") as expected_file:
+                self.assertEqual(output, expected_file.read())
 
     def get_files(self, pattern):
         return sorted(glob.glob(path.join(path.dirname(__file__), pattern)))

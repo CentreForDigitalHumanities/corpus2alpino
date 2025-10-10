@@ -19,7 +19,15 @@ class MemoryTarget(Target):
         suffix: Optional[str] = None,
     ):
         """
-        Write all lines to stdout.
+        Write all lines to memory buffer.
+        """
+        self.buffer += content
+
+    def write_merged(self, content: str) -> None:
+        """Write all lines to memory buffer.
+
+        Args:
+            content (str): content to write
         """
         self.buffer += content
 

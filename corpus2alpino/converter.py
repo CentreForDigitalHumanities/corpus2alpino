@@ -13,6 +13,10 @@ class Converter:
     Class for converting files to Alpino XML (input) files.
     """
 
+    written = 0
+    """Number of written documents
+    """
+
     def __init__(
         self,
         collector: Collector,
@@ -28,10 +32,16 @@ class Converter:
         self.target = target
 
     def convert(self):
+        self.writer.start_merged(self.target)
+
         for file in self.collector.read():
             for document in self.reader.read(file):
                 for annotator in self.annotators:
                     annotator.annotate(document)
                 self.writer.write(document, self.target)
+                self.written += 1
                 yield self.target.flush()
+
+        self.writer.end_merged(self.target)
+        yield self.target.flush()
         self.target.close()

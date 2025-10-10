@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank><alpino_ds version="1.6" id="">
+<sentence sentid="bar">Goedendag !</sentence>
+<metadata>
+<meta type="text" name="fileDesc::titleStmt::title" value="Goedendag!" />
+<meta type="text" name="fileDesc::titleStmt::author" value="Sheean Spoel" />
+<meta type="text" name="fileDesc::editionStmt::edition" value="2018-02-27T10:32:08.110594794" />
+<meta type="text" name="fileDesc::publicationStmt" value="no publication statement available" />
+<meta type="text" name="fileDesc::sourceDesc" value="Written by OpenOffice" />
+<meta type="text" name="id" value="bar" />
+<meta type="text" name="tei-tag" value="head" />
+</metadata>
+</alpino_ds><alpino_ds version="1.6" id="">
+<sentence sentid="foo">Dit is een voorbeeldtekst om te demonstreren dat het mogelijk is tekst om te zetten vanuit TEI-formaat naar Alpino/Lassy-formaat .</sentence>
+<metadata>
+<meta type="text" name="fileDesc::titleStmt::title" value="Goedendag!" />
+<meta type="text" name="fileDesc::titleStmt::author" value="Sheean Spoel" />
+<meta type="text" name="fileDesc::editionStmt::edition" value="2018-02-27T10:32:08.110594794" />
+<meta type="text" name="fileDesc::publicationStmt" value="no publication statement available" />
+<meta type="text" name="fileDesc::sourceDesc" value="Written by OpenOffice" />
+<meta type="text" name="id" value="foo" />
+<meta type="text" name="tei-tag" value="p" />
+<meta type="text" name="rend" value="italic" />
+</metadata>
+</alpino_ds><alpino_ds version="1.6" id="">
+<sentence sentid="foo_1">Een fijne dag nog !</sentence>
+<metadata>
+<meta type="text" name="fileDesc::titleStmt::title" value="Goedendag!" />
+<meta type="text" name="fileDesc::titleStmt::author" value="Sheean Spoel" />
+<meta type="text" name="fileDesc::editionStmt::edition" value="2018-02-27T10:32:08.110594794" />
+<meta type="text" name="fileDesc::publicationStmt" value="no publication statement available" />
+<meta type="text" name="fileDesc::sourceDesc" value="Written by OpenOffice" />
+<meta type="text" name="id" value="foo" />
+<meta type="text" name="tei-tag" value="p" />
+<meta type="text" name="rend" value="underline" />
+</metadata>
+</alpino_ds></treebank>
