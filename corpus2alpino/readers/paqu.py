@@ -13,7 +13,7 @@ from corpus2alpino.readers.tokenizer import Tokenizer
 
 metadata_pattern = re.compile(r'^##META ([^\s]+) ([^\s]+) ?= ?(.*)$')
 id_pattern = re.compile(r'([^\s]+)\|(.*)$')
-int_pattern = re.compile('^\d+$')
+int_pattern = re.compile(r'^\d+$')
 
 
 class PaQuReader(Reader):
